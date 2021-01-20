@@ -1018,6 +1018,31 @@ section.lazy-placeholder:after {
 .cid-rOc2rK4zrA .firstlink:hover {
   color: #fc643f !important;
 }
+.cid-Yl578A2DR4 {
+  padding-top: 25px;
+  padding-bottom: 25px;
+  background: linear-gradient(0deg, #133996, #133996);
+}
+.cid-Yl578A2DR4 .news {
+  width: 100px;
+  background-color: #133996;
+}
+.cid-Yl578A2DR4 .news-scroll a {
+  text-decoration: none;
+}
+.cid-Yl578A2DR4 .dot {
+  height: 6px;
+  width: 6px;
+  margin-left: 3px;
+  margin-right: 3px;
+  margin-top: 2px !important;
+  background-color: #ff3366;
+  border-radius: 50%;
+  display: inline-block;
+}
+.cid-Yl578A2DR4 DIV {
+  color: #ffffff;
+}
 .cid-sgNZvYvvpF {
   padding-top: 75px;
   padding-bottom: 75px;
